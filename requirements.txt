@@ -1,3 +1,14 @@
 voila
 voila-material
 jupyter
+pandas
+urllib.request
+matplotlib.pyplot
+matplotlib.ticker
+seaborn
+plotly
+datetime
+ipywidgets
+csv
+sklearn
+plotly.io
