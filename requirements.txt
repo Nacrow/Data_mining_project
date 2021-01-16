@@ -2,7 +2,6 @@ voila
 voila-material
 jupyter
 pandas
-urllib
 matplotlib
 seaborn
 plotly
