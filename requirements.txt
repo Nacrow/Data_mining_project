@@ -2,9 +2,8 @@ voila
 voila-material
 jupyter
 pandas
-urllib.request
-matplotlib.pyplot
-matplotlib.ticker
+urllib
+matplotlib
 seaborn
 plotly
 datetime
