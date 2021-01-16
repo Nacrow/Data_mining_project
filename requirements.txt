@@ -7,5 +7,4 @@ seaborn
 plotly
 datetime
 ipywidgets
-csv
 sklearn
