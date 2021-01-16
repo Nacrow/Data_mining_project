@@ -11,4 +11,3 @@ datetime
 ipywidgets
 csv
 sklearn
-plotly.io
